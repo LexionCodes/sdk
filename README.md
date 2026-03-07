@@ -6,7 +6,7 @@ From code to runtime, ensure AI agents and smart contracts perform precisely as 
 🌐 Website: https://lexion.codes
 🐦 X / Twitter: https://x.com/LexionCodes
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : C416mho7GeLAVdEnhMS4CKh9R5YEWmcGPYw6Yqbipump
 ---
 
 ## Overview
